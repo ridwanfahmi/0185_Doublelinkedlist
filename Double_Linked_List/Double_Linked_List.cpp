@@ -167,7 +167,7 @@ void revtraverse()
 	}
 }
 
-void seacrhData()
+void searchData()
 {
 	if (listEmpty() == true)
 	{
